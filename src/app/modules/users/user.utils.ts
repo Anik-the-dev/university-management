@@ -6,8 +6,6 @@ export const findLastUserId = async () => {
       createdAt: -1,
     })
     .lean()
-  console.log('Findlast', lastUser)
-
   return lastUser?.id
 }
 
