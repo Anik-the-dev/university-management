@@ -1,0 +1,50 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\practice\\p-hero-next-level\\Be_a_nosql\\University_Management\\logs\\winston\\successes\\.d6b06c68dcd90555f533b5f88f436942db2077c7-audit.json",
+    "files": [
+        {
+            "date": 1687318837124,
+            "name": "D:\\practice\\p-hero-next-level\\Be_a_nosql\\University_Management\\logs\\winston\\successes\\09-21-06-2023-success.log",
+            "hash": "63fc41ed5c0a37fe6c61377395f5b06d7ada89b13ca0543847ba827b9c6f17a7"
+        },
+        {
+            "date": 1687931756495,
+            "name": "D:\\practice\\p-hero-next-level\\Be_a_nosql\\University_Management\\logs\\winston\\successes\\11-28-06-2023-success.log",
+            "hash": "f513aa960371fba2694c410c09de37903894dcb5912bf66607527843c36561be"
+        },
+        {
+            "date": 1687933589506,
+            "name": "D:\\practice\\p-hero-next-level\\Be_a_nosql\\University_Management\\logs\\winston\\successes\\12-28-06-2023-success.log",
+            "hash": "cf458f529457efb3a5dc8f56bd1258af67100de3e32d4de09713c9380e52099c"
+        },
+        {
+            "date": 1687936915083,
+            "name": "D:\\practice\\p-hero-next-level\\Be_a_nosql\\University_Management\\logs\\winston\\successes\\13-28-06-2023-success.log",
+            "hash": "4e3cb515700dae02f627c2c6d72d892f2d61d9ae4d26416efbe9e7ee46e60bcb"
+        },
+        {
+            "date": 1688270727587,
+            "name": "D:\\practice\\p-hero-next-level\\Be_a_nosql\\University_Management\\logs\\winston\\successes\\10-02-07-2023-success.log",
+            "hash": "464de36ecfad9385601bb4d1c57833671a61f5c9824cd8a659bd72676ab08978"
+        },
+        {
+            "date": 1688274090920,
+            "name": "D:\\practice\\p-hero-next-level\\Be_a_nosql\\University_Management\\logs\\winston\\successes\\11-02-07-2023-success.log",
+            "hash": "54a727a25157383829461a245263aad154d817108f63fef1d76c7425ae810a06"
+        },
+        {
+            "date": 1688278040024,
+            "name": "D:\\practice\\p-hero-next-level\\Be_a_nosql\\University_Management\\logs\\winston\\successes\\12-02-07-2023-success.log",
+            "hash": "61740de182d60c026d50b1da3b0774d8ab5ea5d747348e1938a89016fc388348"
+        },
+        {
+            "date": 1688281850967,
+            "name": "D:\\practice\\p-hero-next-level\\Be_a_nosql\\University_Management\\logs\\winston\\successes\\13-02-07-2023-success.log",
+            "hash": "6bcc584d3edb1c35cc57f3243f895a754e1b7409d4c0bbc3009a1447f9c1701f"
+        }
+    ],
+    "hashType": "sha256"
+}

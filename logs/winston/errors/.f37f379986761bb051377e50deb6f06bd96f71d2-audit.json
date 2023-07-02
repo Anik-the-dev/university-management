@@ -1,0 +1,50 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\practice\\p-hero-next-level\\Be_a_nosql\\University_Management\\logs\\winston\\errors\\.f37f379986761bb051377e50deb6f06bd96f71d2-audit.json",
+    "files": [
+        {
+            "date": 1687318837133,
+            "name": "D:\\practice\\p-hero-next-level\\Be_a_nosql\\University_Management\\logs\\winston\\errors\\09-21-06-2023-error.log",
+            "hash": "aec1beefe59d62202ffdcf747f7761ff350caf90b7f5ef997e175d2c6c898b6f"
+        },
+        {
+            "date": 1687931756510,
+            "name": "D:\\practice\\p-hero-next-level\\Be_a_nosql\\University_Management\\logs\\winston\\errors\\11-28-06-2023-error.log",
+            "hash": "569f82dcf465e8649e893b367ebff112bc6f430e544a4a6a51458dca363479fa"
+        },
+        {
+            "date": 1687933589509,
+            "name": "D:\\practice\\p-hero-next-level\\Be_a_nosql\\University_Management\\logs\\winston\\errors\\12-28-06-2023-error.log",
+            "hash": "97530a5cbac8d14a38b983a8f2416c6a6026bedc03d125e9a0c8941c5d7ccc26"
+        },
+        {
+            "date": 1687936915089,
+            "name": "D:\\practice\\p-hero-next-level\\Be_a_nosql\\University_Management\\logs\\winston\\errors\\13-28-06-2023-error.log",
+            "hash": "efda29125867281c5b051128b0463d16cecf5846e4e4e682d927b2329a14ad9e"
+        },
+        {
+            "date": 1688270727600,
+            "name": "D:\\practice\\p-hero-next-level\\Be_a_nosql\\University_Management\\logs\\winston\\errors\\10-02-07-2023-error.log",
+            "hash": "cdd79ea9df04d47156ff1817015bf0925509243edbda379e27edb8a03c674cb7"
+        },
+        {
+            "date": 1688274090930,
+            "name": "D:\\practice\\p-hero-next-level\\Be_a_nosql\\University_Management\\logs\\winston\\errors\\11-02-07-2023-error.log",
+            "hash": "0c24dac298755f7fd8ad003a7cd92b066d1ef99471783dceacafedba031afa8f"
+        },
+        {
+            "date": 1688278040029,
+            "name": "D:\\practice\\p-hero-next-level\\Be_a_nosql\\University_Management\\logs\\winston\\errors\\12-02-07-2023-error.log",
+            "hash": "221acf5928e95a831b341aed49793271236ed1ea247bca16a3e867e333627950"
+        },
+        {
+            "date": 1688281850972,
+            "name": "D:\\practice\\p-hero-next-level\\Be_a_nosql\\University_Management\\logs\\winston\\errors\\13-02-07-2023-error.log",
+            "hash": "a3f358eab7a53cb9e25427bd2b36d5ca3c8de204458ba4d3850a227dff2b3cbc"
+        }
+    ],
+    "hashType": "sha256"
+}
